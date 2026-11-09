@@ -1,4 +1,4 @@
-# Digiteen User Service
+# User Service
 
 Requires Docker Compose. From this repository, start the app and PostgreSQL:
 
